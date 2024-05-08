@@ -1,4 +1,4 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Missão FLL: A Jornada dos Superengenheiros
 
 ## 📒 Descrição
 Este e-book de 12 páginas intitulado "Missão FLL: A Jornada dos Superengenheiros" explora o vasto mundo da competição de robótica First LEGO League.
